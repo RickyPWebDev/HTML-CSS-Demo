@@ -1,0 +1,228 @@
+body {
+    margin-top: 24px;
+    background-image: url("images/backGround2.jpg");
+}
+a:link{
+    text-decoration: none;
+    color:aliceblue;
+}
+a{
+    color:aliceblue;
+}
+.heading{
+font-family: Geneva, Arial, Helvetica, sans-serif;
+font-size: 18pt;
+text-align: center;
+color: aliceblue;
+}
+
+.subheading {
+font-family: Geneva, Arial, Helvetica, sans-serif;
+font-size: 16pt;
+text-align: center;
+color:aliceblue;
+}
+
+.navigation {
+font-family: Geneva, Arial, Helvetica, sans-serif;
+font-size: 13pt;
+text-align: left;
+margin: 50px;
+text-decoration: none;
+color:#ffffff
+}
+
+#info {
+position: absolute;
+left: 100px;
+top: 300px;
+background-color: #ffffff;
+width: 300px;
+text-align: left;
+font-family: Geneva, Arial, Helvetica, sans-serif;
+font-size: 12px;
+padding:10px;
+}
+
+#landscape {
+position: absolute;
+left: 750px;
+top: 250px;
+}
+
+#potrait {
+position: absolute;
+left: 100px;
+top: 450px;
+}
+
+#featuretext {
+position: absolute;
+left: 550px;
+top: 500px;
+width:540px;
+font-family: Geneva, Arial, Helvetica, sans-serif;
+font-size: 14px;
+color: #ffffff;
+text-align: left;
+}
+
+#rooms {
+position: absolute;
+top: 800px;
+left: 100px;
+background-color: #ffffff;
+font-family: Geneva, Arial, Helvetica, sans-serif;
+font-size: 12px;
+text-align: left;
+padding:10px
+}
+
+#accentimages {
+position: absolute;
+left: 250px;
+top: 1200px;
+}
+
+.footer {
+position: absolute;
+left: 250px;
+top: 1450px;
+color:aliceblue;
+}
+
+.slide {
+position: absolute;
+left: 400px;
+top: 350px;
+}
+
+.slidetitle {
+
+    position: absolute; 
+    left: 550px; 
+    top: 1000px; 
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color:aliceblue;
+}
+
+.slideprevious {
+position: absolute;
+left: 400px;
+top: 1050px;
+font-family: Geneva, Arial, Helvetica, sans-serif;
+font-size: 12px;
+color:aliceblue;
+}
+
+.slidenext {
+position: absolute;
+left:800px;
+top: 1050px;
+font-family: Genenva, Arial, Helvetica, sans-serif;
+font-size: 12px;
+color:aliceblue;
+}
+
+#map {
+position: absolute;
+left: 55px;
+}
+
+#address {
+position: absolute;
+top:300px;
+left: 800px;
+font-family: Geneva, Arial, Helbetica, sans-serif;
+font-size: 12px;
+}
+
+.boldhead {
+position: absolute;
+left:55px;
+top: 260px;
+font-family: Geneva, Arial, Helvetica, sans-serif;
+font-size: 13px;
+font-weight: bold;
+color:aliceblue;
+}
+
+#link1 {
+position: absolute;
+left:55px;
+top:350px;
+font-family: Geneva, Arial, Helvetica, sans-serif;
+font-size: 15px;
+
+}
+
+#link2 {
+position: absolute;
+left:55px;
+top:550px;
+font-family: Geneva, Arial, Helvetica, sans-serif;
+font-size: 13px;
+}
+
+#link3 {
+position: absolute;
+left:55px;
+top:750px;
+font-family: Geneva, Arial, Helvetica, sans-serif;
+font-size: 13px;
+}
+
+#link4 {
+position: absolute;
+left:55px;
+top:950px;
+font-family: Geneva, Arial, Helvetica, sans-serif;
+font-size: 13px;
+}
+
+#link5 {
+position: absolute;
+left:55px;
+top:1150px;
+font-family: Geneva, Arial, Helvetica, sans-serif;
+font-size: 13px;
+}
+
+span.underline {
+text-decoration: underline;
+}
+
+#weekly{
+position: absolute;
+left: 55px;
+top: 350px;
+font-family: Geneva, Arial, Helvetica, sans-serif;
+font-size: 15px;
+color:aliceblue;
+}
+
+#weekends{
+position: absolute;
+left:55px;
+top: 600px;
+font-family: Geneva, Arial, Helvetica, sans-serif;
+font-size: 15px;
+color:aliceblue;
+}
+
+#contact{
+position: absolute;
+left:55px;
+top: 900px;
+font-family: Geneva, Arial, Helvetica, sans-serif;
+font-size: 15px;
+color:aliceblue;
+}
+
+#forminfo { 
+
+font-family: Geneva, Arial, Helvetica, sans-serif; 
+font-size: 13px; 
+}
+
