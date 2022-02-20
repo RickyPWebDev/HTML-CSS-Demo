@@ -1,7 +1,6 @@
 body {
     margin-top: 24px;
-    background-image: url:("images/BackGround2.jpg");
-a:link{
+    background-color: #5637f0;
     text-decoration: none;
     color:aliceblue;
 }
