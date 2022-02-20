@@ -1,6 +1,6 @@
 body {
     margin-top: 24px;
-    background-image: url:("https://RickyPWebDev.github.io/images/BackGround2.jpg");
+    background-image:linear-gradient(#04346c, #064c87, #2a98b9, #7bd0e0);
     text-decoration: none;
 
 }
